@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Config;
+namespace Nyxio\Config;
 
-use function Nyx\Helper\Directory\join;
+use function Nyxio\Helper\Directory\join;
 
 class Config extends MemoryConfig
 {

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Nyx\Config;
+namespace Nyxio\Config;
 
-use Nyx\Contract\Config\ConfigInterface;
+use Nyxio\Contract\Config\ConfigInterface;
 
 class MemoryConfig implements ConfigInterface
 {
