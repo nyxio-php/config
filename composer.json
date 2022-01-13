@@ -1,11 +1,11 @@
 {
-    "name": "nyxio/container",
-    "description": "nyxio container component",
+    "name": "nyxio/config",
+    "description": "nyxio config component",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nyxio\\Container\\": ""
+            "Nyxio\\Config\\": ""
         }
     },
     "authors": [
